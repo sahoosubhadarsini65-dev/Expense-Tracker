@@ -1,4 +1,4 @@
-#create a console based Expense tracker ,That allows the user to record the  daily expenses and vies summeries like total spending.
+#create a console based Expense tracker ,That allows the user to record the  daily expenses and view summeries like total spending.
 
 expenseslist=[]  #List of expeses in form of dictionary
 print("Wellcome to expense Tracker: ")
